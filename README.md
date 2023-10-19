@@ -9,3 +9,6 @@ The purpose of analysing this data is to uncover relationships between policyhol
 2. Does the BMI of females differ from the BMI of males?
 3. Is the proportion of smokers significantly different across different regions?
 4. Is the mean BMI of women with no children, one child, and two children the same?
+
+# Analysis
+Click [HERE](https://github.com/seandhan/Insurance-Business-Statistics/blob/main/Insurance%20Business%20Statistics.ipynb) to view the analysis.
